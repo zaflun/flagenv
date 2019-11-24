@@ -1,4 +1,7 @@
 # flagenv
+
+[![Build Status](https://travis-ci.org/zaflun/flagenv.svg)](https://travis-ci.org/zaflun/flagenv)
+
 Flag adapter with env default values
 
 ###### Fork From [bborbe/flagenv](https://github.com/bborbe/flagenv)
